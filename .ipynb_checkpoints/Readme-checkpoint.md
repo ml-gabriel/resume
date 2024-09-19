@@ -6,3 +6,5 @@
 [Hunter College High School](https://www.hunterschools.org/welcome-to-hunter-college-high-school) <br>
 [Dual BA Program between Trinity College Dublin and Columbia University](https://tcd.gs.columbia.edu/)<br>
 [Columbia University Graduate School of Arts and Sciences](https://www.gsas.columbia.edu/)<br> 
+## Research Interests
+I am broadly interested in paleomagnetics and paleoceanography. I am currently studying the magnetic susceptibility record in the Scotia Sea.  
